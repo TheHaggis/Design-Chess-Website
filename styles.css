@@ -1,0 +1,70 @@
+/*This body tag is to control the overall background color and the orientation of the content*/
+body {
+    background-color: rgb(39, 246, 39);
+    position: relative;
+    padding-left: 450px;
+    background-image: url(https://openclipart.org/image/2400px/svg_to_png/18581/portablejim-2D-Chess-set-Chessboard-1.png);
+}
+.amazing {
+    border: solid black 3px;
+    padding: 10px;
+    background-color: green;
+    width: 800px;
+}
+.good {
+    position: absolute;
+    right: 60%;
+    top: 2%;
+}
+/*Each class is connecting to the subject opening*/
+.queen {
+    border: solid black 3px;
+    width: 800px;
+    background-color: rgb(2, 85, 2);
+    padding: 10px;
+}
+/*Each image must be shrunk so they all have a similar class such as th*/
+.imgqueen {
+    width: 100px;
+    height: 100px;
+}
+.london {
+    border: solid black 3px;
+    padding: 10px;
+    background-color: green;
+    width: 800px;
+}
+.imglondon {
+    width: 100px;
+    height: 100px;
+}
+.english {
+    border: solid black 3px;
+    width: 800px;
+    background-color: rgb(2, 85, 2);
+    padding: 10px;
+}
+.imgenglish {
+    width: 100px;
+    height: 100px;
+}
+.fried {
+    border: solid black 3px;
+    padding: 10px;
+    background-color: green;
+    width: 800px;
+}
+.imgfried {
+    width: 100px;
+    height: 100px;
+}
+.french {
+    border: solid black 3px;
+    width: 800px;
+    background-color: rgb(2, 85, 2);
+    padding: 10px;
+}
+.imgfrench {
+    width: 100px;
+    height: 100px;
+}

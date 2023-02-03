@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(39, 246, 39);
+    background-image: url(https://openclipart.org/image/2400px/svg_to_png/18581/portablejim-2D-Chess-set-Chessboard-1.png);
+}
+section {
+    border: solid black 3px;
+    width: 800px;
+    background-color: rgb(2, 85, 2);
+    padding: 10px;
+}
